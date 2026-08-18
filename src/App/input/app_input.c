@@ -4,6 +4,18 @@
 #include "driver/gpio/drv_gpio.h"
 #include "pico/time.h"
 
+/*
+conmmit one 
+******************
+*****************
+******************
+*****************
+******************
+*****************
+******************
+*****************
+*/
+
 static bool s_input1 = false;
 static bool s_input2 = false;
 static uint32_t s_last_sample_ms = 0;
