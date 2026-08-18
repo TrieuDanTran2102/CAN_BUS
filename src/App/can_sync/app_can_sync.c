@@ -34,6 +34,18 @@ static void on_can_rx(const xl2515_can_frame_t *frame, void *ctx)
     }
 }
 
+/*
+conmmit one 
+******************
+*****************
+******************
+*****************
+******************
+*****************
+******************
+*****************
+*/
+
 void app_can_sync_init(void)
 {
     time_sync_init();
